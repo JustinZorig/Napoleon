@@ -1,0 +1,4 @@
+{
+    "blacklist": ["youtube.com", "reddit.com"],
+    "check_interval_seconds": 1
+}
